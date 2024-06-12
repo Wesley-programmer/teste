@@ -1,4 +1,4 @@
-import bd
+import b
 import conexaobd
 import tkinter as tk
 from datetime import datetime, date
